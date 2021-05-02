@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 I am currently a Senior Research Scientist at AWS AI Labs, Amazon in Palo Alto, CA. 
 
 Prior to my appointment at Amazon, I worked at the MIT-IBM Watson AI Lab, IBM Research in Cambridge, MA (2018-2020) as a Research Staff Member. Before IBM, I was a Postdoctoral Research Associate at the Laboratory for Information and Decision Systems (LIDS), MIT during 2017-2018. 
