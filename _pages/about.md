@@ -18,4 +18,4 @@ Before IBM, I was a Postdoctoral Research Associate at the Laboratory for Inform
 
 Prior to MIT, I was a Research Fellow at National University of Singapore (2015-2017) where I earned my PhD degree in Machine Learning (2010-2015). 
 
-My Yoda master is Associate Professor Kian Hsiang Low. 
+My PhD adviser is Associate Professor Kian Hsiang Low. 
