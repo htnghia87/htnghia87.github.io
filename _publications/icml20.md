@@ -2,7 +2,7 @@
 title: "Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion"
 collection: publications
 permalink: /publication/icml20
-excerpt: 'Trong Nghia Hoang, Chi Thanh Lam, Kian Hsiang Low and Patrick Jaillet'
+excerpt: 'Trong Nghia Hoang (co-first author), Chi Thanh Lam (co-first author), Kian Hsiang Low and Patrick Jaillet'
 date: 2020-06-12
 venue: '37th International Conference on Machine Learning (ICML)'
 ---

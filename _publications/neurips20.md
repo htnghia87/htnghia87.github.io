@@ -2,7 +2,7 @@
 title: "Revisiting the Sample Complexity of Sparse Spectrum Approximation of Gaussian Processes"
 collection: publications
 permalink: /publication/neurips20
-excerpt: 'Quang Minh Hoang, Trong Nghia Hoang, Hai Pham and David Woodruff'
+excerpt: 'Quang Minh Hoang (co-first author), Trong Nghia Hoang (co-first author), Hai Pham and David Woodruff'
 date: 2020-12-06
 venue: '34th Neural Information Processing Systems (NeurIPS)'
 ---
