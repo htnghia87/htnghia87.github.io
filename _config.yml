@@ -122,6 +122,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - files/conference_papers
+  - files/journal_papers
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
