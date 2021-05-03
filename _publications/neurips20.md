@@ -6,8 +6,8 @@ excerpt: 'Quang Minh Hoang, Trong Nghia Hoang, Hai Pham and David Woodruff'
 date: 2020-12-06
 venue: '34th Neural Information Processing Systems (NeurIPS)'
 ---
-Abstract: Model fusion is an emerging study in collective learning where heterogeneous experts with private data and learning architectures need to combine their black-box knowledge for better performance. Existing literature achieves this via a local knowledge distillation scheme that transfuses the predictive patterns of each pre-trained expert onto a white-box imitator model, which can be incorporated efficiently into a global model. This scheme however does not extend to multi-task scenarios where different experts were trained to solve different tasks and only part of their distilled knowledge is relevant to a new task. To address this multi-task challenge, we develop a new fusion paradigm that represents each expert as a distribution over a spectrum of predictive prototypes, which are isolated from task-specific information encoded within the prototype distribution. The task-agnostic prototypes can then be reintegrated to generate a new model that solves a new task encoded with a different prototype distribution. The fusion and adaptation performance of the proposed framework is demonstrated empirically on several real-world benchmark datasets.
+Abstract: We introduce a new scalable approximation for Gaussian processes with provable guarantees which holds simultaneously over its entire parameter space. Our approximation is obtained from an improved sample complexity analysis for sparse spectrum Gaussian processes (SSGPs). In particular, our analysis shows that under a certain data disentangling condition, an SSGP's prediction and model evidence (for training) can well-approximate those of a full GP with low sample complexity. We also develop a new auto-encoding algorithm that finds a latent space to disentangle latent input coordinates into well-separated clusters, which is amenable to our sample complexity analysis. We validate our proposed method on several benchmarks with promising results supporting our theoretical analysis.
 
-[Paper](conference_papers/icml20.pdf)
-[Supplementary](conference_papers/icml20-supp.pdf)
-[Bibtex](conference_papers/icml20.bib)
+[Paper](files/neurips20.pdf)
+[Supplementary](files/neurips20-supp.pdf)
+[Bibtex](files/neurips20.bib)
