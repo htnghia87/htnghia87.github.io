@@ -1,7 +1,7 @@
 ---
 title: "On-Device Personalization for Federated and Meta Learning"
 excerpt: "<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: research
 ---
 
 I am interested in the problem of meta learning in practical domains where production systems hosting analytic services often require generating warm-start solution models for emerging tasks with limited data. One potential approach to address this warm-start challenge is to adopt meta learning to generate a base model that can be adapted to solve unseen tasks with minimal fine-tuning. This however requires the training processes of previous solution models of existing tasks to be synchronized. This is not possible if these models were pre-trained separately on private data owned by different parties and cannot be synchronously re-trained.
