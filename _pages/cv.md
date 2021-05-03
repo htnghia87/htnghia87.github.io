@@ -31,17 +31,17 @@ Professional Services
 
 * 2014: Auxiliary Reviewer (AAMAS, ICRA), Reviewer (J-STSP)
 
-* 2015: Program Committee Member (IJCAI), Reviewer (J-STSP)
+* 2015: PC Member (IJCAI), Reviewer (J-STSP)
 
-* 2016: Program Committee Member (ICRA, NIPS)
+* 2016: PC Member (ICRA, NIPS)
 
-* 2018: Program Committee Member (ICRA, AAMAS, IJCAI, PAKDD, NIPS), Reviewer (IEEE-RA-L), Proposal Evaluator (AI Singapore Research Programme)
+* 2018: PC Member (ICRA, AAMAS, IJCAI, PAKDD, NIPS), Reviewer (IEEE-RA-L), Proposal Evaluator (AI Singapore Research Programme)
 
-* 2019: Program Committee Member (AAAI, ICLR, AAMAS, ICML, NeurIPS, IJCAI), Reviewer (T-PAMI), Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer (Practical Bayesian Methods for Big Data, IBM Research AI Week -- [Website](https://deeplybayesian.github.io/)
+* 2019: PC Member (AAAI, ICLR, AAMAS, ICML, NeurIPS, IJCAI), Reviewer (T-PAMI), Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer (Practical Bayesian Methods for Big Data, IBM Research AI Week -- [Website](https://deeplybayesian.github.io/)
 
-* 2020: Program Committee Member (AAAI, ICLR, ICML, NeurIPS, PRIMA), Reviewer (ICRA, IROS)
+* 2020: PC Member (AAAI, ICLR, ICML, NeurIPS, PRIMA), Reviewer (ICRA, IROS)
 
-* 2021: Senior Program Committee Member (IJCAI), Program Committee Member (AAAI, ICLR, ICML, NeurIPS), Reviewer (IROS)
+* 2021: SPC Member (IJCAI), PC Member (AAAI, ICLR, ICML, NeurIPS), Reviewer (IROS)
 
 
 [Full Resume](http://htnghia87.github.io/files/resume.pdf)
