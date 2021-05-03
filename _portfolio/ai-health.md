@@ -1,11 +1,17 @@
 ---
-title: "On-Device Personalization for Federated and Meta Learning"
+title: "Transferrable and Interpretable ML for Healthcare"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-I am interested in the problem of meta learning in practical domains where production systems hosting analytic services often require generating warm-start solution models for emerging tasks with limited data. One potential approach to address this warm-start challenge is to adopt meta learning to generate a base model that can be adapted to solve unseen tasks with minimal fine-tuning. This however requires the training processes of previous solution models of existing tasks to be synchronized. This is not possible if these models were pre-trained separately on private data owned by different parties and cannot be synchronously re-trained.
+I am interested in application of ML to healthcare. Two important desiderata of ML models for healthcare applications are (1) transferability where knowledge learned from one domain can be transferred effectively to another and (2) interpretability via data prototyping where models whose predictions at prototypical data points are interpretable. Relevant papers were recently published in IJCAI-19, AAAI-20, WWW-21.
 
-To accommodate for such scenarios, my research aims to develop a new personalized learning framework that synthesizes customized models for unseen tasks via fusion of independently pre-trained models of related tasks. One potential direction to tackle this problem is to train local models separately and treat them as observations drawn from stochastic process that defines the behaviors of a latent global model. This results in formal meta-Bayesian learning frameworks that can infer (or synthesize) a global model given observations of those local models. I coined this approach model fusion.
+Research Highlight:
 
-My preliminary works in this emerging area were recently published at AAAI-19, ICML-19, NeurIPS-19 & ICML-20. 
+I and my collaborators, Douglas A. Lauffenburger (MIT) and Sara Magliacane (University of Amsterdam), were awarded an exploratory research grant (150K USD) for Cross-Species Translation of COVID-19 Systems Serology Data for Infection and Vaccine Treatment by the MIT-IBM board of directors (12/2020-12/2021)
+
+My recent work on discovering explainable representation for Drug-Drug Interaction in collaboration with colleagues from Harvard, Georgia Tech and IQVIA was mentioned on MIT Tech Review and Tech Republic:
+
+MIT Tech Review: https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/ 
+
+Tech Republic: https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/

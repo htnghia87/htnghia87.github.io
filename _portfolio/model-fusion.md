@@ -8,4 +8,8 @@ I am interested in the problem of meta learning in practical domains where produ
 
 To accommodate for such scenarios, my research aims to develop a new personalized learning framework that synthesizes customized models for unseen tasks via fusion of independently pre-trained models of related tasks. One potential direction to tackle this problem is to train local models separately and treat them as observations drawn from stochastic process that defines the behaviors of a latent global model. This results in formal meta-Bayesian learning frameworks that can infer (or synthesize) a global model given observations of those local models. I coined this approach model fusion.
 
-My preliminary works in this emerging area were recently published at AAAI-19, ICML-19, NeurIPS-19 & ICML-20. 
+My preliminary works in this emerging area were recently published at AAAI-19, ICML-19, NeurIPS-19 & ICML-20.
+
+Research Highlight:
+
+I and my collaborator, Patrick Jaillet (MIT), were awarded an exploratory research grant (150K USD) for On-Device Personalization with Meta Learning by the MIT-IBM board of directors (12/2020-12/2021) 

@@ -1,11 +1,7 @@
 ---
-title: "On-Device Personalization for Federated and Meta Learning"
+title: "Bayesian Optimization and Active Learning of Gaussian Processes"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-I am interested in the problem of meta learning in practical domains where production systems hosting analytic services often require generating warm-start solution models for emerging tasks with limited data. One potential approach to address this warm-start challenge is to adopt meta learning to generate a base model that can be adapted to solve unseen tasks with minimal fine-tuning. This however requires the training processes of previous solution models of existing tasks to be synchronized. This is not possible if these models were pre-trained separately on private data owned by different parties and cannot be synchronously re-trained.
-
-To accommodate for such scenarios, my research aims to develop a new personalized learning framework that synthesizes customized models for unseen tasks via fusion of independently pre-trained models of related tasks. One potential direction to tackle this problem is to train local models separately and treat them as observations drawn from stochastic process that defines the behaviors of a latent global model. This results in formal meta-Bayesian learning frameworks that can infer (or synthesize) a global model given observations of those local models. I coined this approach model fusion.
-
-My preliminary works in this emerging area were recently published at AAAI-19, ICML-19, NeurIPS-19 & ICML-20. 
+Another research direction that I am pursuing is Bayesian Optimization which investigates a class of gradient- free optimization algorithm to optimize non-differentiable model parameters, which aligns with the current auto ML initiative. The key idea is to learn a GP representation of the model’s behaviors at different combinatoric parameter setup and leverage this information to learn an optimal set of model parameter. The key challenge is to (1) figure out which parameter queries are most informative to accurately learn the correlation between the model’s behaviors at different parameter setup (which defines the GP representation), and (2) how to do that effectively in high-dimensional model space which is often the case in many practical applications. Relevant papers were published in ICML-14, AAAI-16, AAAI-18, ICCV-19 & NeurIPS-20
