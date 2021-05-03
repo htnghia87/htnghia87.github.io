@@ -1,13 +1,13 @@
 ---
-title: "Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion"
+title: "On the Design of Black-box Adversarial Examples by Leveraging Gradient-free Optimization and Operator Splitting Method"
 collection: publications
-permalink: /publication/icml20
-excerpt: 'Trong Nghia Hoang (co-first author), Chi Thanh Lam (co-first author), Kian Hsiang Low and Patrick Jaillet'
-date: 2020-06-12
-venue: '37th International Conference on Machine Learning (ICML)'
+permalink: /publication/iccv19
+excerpt: 'Pu Zhao, Sijia Liu, Pin-Yu Chen, Nghia Hoang, Kaidi Xu, Bhavya Kailkhura and Xue Lin'
+date: 2019-10-27
+venue: 'International Conference on Computer Vision (ICCV)'
 ---
-Abstract: Model fusion is an emerging study in collective learning where heterogeneous experts with private data and learning architectures need to combine their black-box knowledge for better performance. Existing literature achieves this via a local knowledge distillation scheme that transfuses the predictive patterns of each pre-trained expert onto a white-box imitator model, which can be incorporated efficiently into a global model. This scheme however does not extend to multi-task scenarios where different experts were trained to solve different tasks and only part of their distilled knowledge is relevant to a new task. To address this multi-task challenge, we develop a new fusion paradigm that represents each expert as a distribution over a spectrum of predictive prototypes, which are isolated from task-specific information encoded within the prototype distribution. The task-agnostic prototypes can then be reintegrated to generate a new model that solves a new task encoded with a different prototype distribution. The fusion and adaptation performance of the proposed framework is demonstrated empirically on several real-world benchmark datasets.
+Abstract: Robust machine learning is currently one of the most prominent topics which could potentially help shaping a future of advanced AI platforms that not only perform well in average cases but also in worst cases or adverse situations. Despite the long-term vision, however, existing studies on black-box adversarial attacks are still restricted to very specific settings of threat models (e.g., single distortion metric and restrictive assumption on target model's feedback to queries) and/or suffer from prohibitively high query complexity. To push for further advances in this field, we introduce a general framework based on an operator splitting method, the alternating direction method of multipliers (ADMM) to devise efficient, robust black-box attacks that work with various distortion metrics and feedback settings without incurring high query complexity. Due to the black-box nature of the threat model, the proposed ADMM solution framework is integrated with zeroth-order (ZO) optimization and Bayesian optimization (BO), and thus is applicable to the gradient-free regime. This results in two new black-box adversarial attack generation methods, ZO-ADMM and BO-ADMM. Our empirical evaluations on image classification datasets show that our proposed approaches have much lower function query complexities compared to state-of-the-art attack methods, but achieve very competitive attack success rates.
 
-[Paper](http://htnghia87.github.io/files/icml20.pdf)
-[Supplementary](http://htnghia87.github.io/files/icml20-supp.pdf)
-[Bibtex](http://htnghia87.github.io/files/icml20.bib)
+[Paper](http://htnghia87.github.io/files/iccv19.pdf)
+[Supplementary](http://htnghia87.github.io/files/iccv19-supp.pdf)
+[Bibtex](http://htnghia87.github.io/files/iccv19.bib)

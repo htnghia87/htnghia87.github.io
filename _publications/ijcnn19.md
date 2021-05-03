@@ -1,13 +1,13 @@
 ---
-title: "Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion"
+title: "Stochastic Variational Inference for Bayesian Sparse Gaussian Process Regression"
 collection: publications
-permalink: /publication/icml20
-excerpt: 'Trong Nghia Hoang (co-first author), Chi Thanh Lam (co-first author), Kian Hsiang Low and Patrick Jaillet'
-date: 2020-06-12
-venue: '37th International Conference on Machine Learning (ICML)'
+permalink: /publication/ijcnn19
+excerpt: 'Haibin Yu, Trong Nghia Hoang, Kian Hsiang Low and Patrick Jaillet'
+date: 2019-07-14
+venue: 'International Joint Conference on Neural Networks (IJCNN)'
 ---
-Abstract: Model fusion is an emerging study in collective learning where heterogeneous experts with private data and learning architectures need to combine their black-box knowledge for better performance. Existing literature achieves this via a local knowledge distillation scheme that transfuses the predictive patterns of each pre-trained expert onto a white-box imitator model, which can be incorporated efficiently into a global model. This scheme however does not extend to multi-task scenarios where different experts were trained to solve different tasks and only part of their distilled knowledge is relevant to a new task. To address this multi-task challenge, we develop a new fusion paradigm that represents each expert as a distribution over a spectrum of predictive prototypes, which are isolated from task-specific information encoded within the prototype distribution. The task-agnostic prototypes can then be reintegrated to generate a new model that solves a new task encoded with a different prototype distribution. The fusion and adaptation performance of the proposed framework is demonstrated empirically on several real-world benchmark datasets.
+Abstract: This paper presents a novel variational inference framework for deriving a family of Bayesian sparse Gaussian process regression (SGPR) models whose approximations are variationally optimal with respect to the full-rank GPR model enriched with various corresponding correlation structures of the observation noises. Our variational Bayesian SGPR (VBSGPR) models jointly treat both the distributions of the inducing variables and hyperparameters as variational parameters, which enables the decomposability of the variational lower bound that in turn can be exploited for stochastic optimization. Such a stochastic optimization involves iteratively following the stochastic gradient of the variational lower bound to improve its estimates of the optimal variational distributions of the inducing variables and hyperparameters (and hence the predictive distribution) of our VBSGPR models and is guaranteed to achieve asymptotic convergence to them. We show that the stochastic gradient is an unbiased estimator of the exact gradient and can be computed in constant time per iteration, hence achieving scalability to big data. We empirically evaluate the performance of our proposed framework on two real-world, massive datasets.
 
-[Paper](http://htnghia87.github.io/files/icml20.pdf)
-[Supplementary](http://htnghia87.github.io/files/icml20-supp.pdf)
-[Bibtex](http://htnghia87.github.io/files/icml20.bib)
+[Paper](http://htnghia87.github.io/files/ijcnn19.pdf)
+[Supplementary](http://htnghia87.github.io/files/ijcnn19-supp.pdf)
+[Bibtex](http://htnghia87.github.io/files/ijcnn19.bib)
