@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full Resume](http://htnghia87.github.io/files/resume.pdf)
+
 Education
 ======
 * B.Sc. in University of Science (Vietnam), 2009
@@ -37,7 +39,9 @@ Professional Services
 
 * 2018: PC Member (ICRA, AAMAS, IJCAI, PAKDD, NIPS), Reviewer (IEEE-RA-L), Proposal Evaluator (AI Singapore Research Programme)
 
-* 2019: PC Member (AAAI, ICLR, AAMAS, ICML, NeurIPS, IJCAI), Reviewer (T-PAMI), Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer (Practical Bayesian Methods for Big Data, IBM Research AI Week -- [Website](https://deeplybayesian.github.io/)
+* 2019: PC Member (AAAI, ICLR, AAMAS, ICML, NeurIPS, IJCAI), Reviewer (T-PAMI)
+
+* 2019: Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer (Practical Bayesian Methods for Big Data, IBM Research AI Week -- [Website](https://deeplybayesian.github.io/)
 
 * 2020: PC Member (AAAI, ICLR, ICML, NeurIPS, PRIMA), Reviewer (ICRA, IROS)
 
