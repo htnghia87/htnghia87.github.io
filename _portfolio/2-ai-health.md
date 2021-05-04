@@ -27,13 +27,7 @@ Relevant papers (in collaboration with <a href="https://sites.google.com/view/da
 
 **CHEER: Rich Model Helps Poor Model via Knowledge Infusion (TKDE-20)** [Paper](https://htnghia87.github.io/publication/tkde20)
 
-**CASTER: Predicting Drug Interactions with Chemical Substructure Representation (AAAI-20)** [Paper](https://htnghia87.github.io/publication/aaai20)
-
-<p align="justify">
-
-The above work on discovering explainable representation for Drug-Drug Interaction in collaboration with colleagues from Harvard, Georgia Tech and IQVIA was mentioned on <a href="https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/">MIT Tech Review</a> and <a href="https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/">Tech Republic</a>
-
-</p>
+**CASTER: Predicting Drug Interactions with Chemical Substructure Representation (AAAI-20)** [Paper](https://htnghia87.github.io/publication/aaai20) [MIT Tech Review](https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/) [Tech Republic](https://www.techrepublic.com/article/ibm-unveils-new-ai-model-to-predict-potentially-harmful-drug-to-drug-interactions/)
 
 Older works in relevant topics:
 
