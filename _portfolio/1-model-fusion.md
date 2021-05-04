@@ -22,6 +22,6 @@ Most recent work in this topic at ICML-20:
 
 * Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion (ICML-20) [Paper](https://htnghia87.github.io/publication/icml20)
 
-**Research Highlight**:
+**Research Funding**:
 
-I and my collaborator, Professor Patrick Jaillet (MIT), were awarded an exploratory research grant **(150K USD)** for **On-Device Personalization with Meta Learning** by the MIT-IBM board of directors **(12/2020-12/2021)** 
+I and my collaborator, Professor Patrick Jaillet (MIT), were awarded an exploratory research grant **(150K USD)** to investigate new challenges in **On-Device Personalization with Meta Learning** by the MIT-IBM Watson AI Lab. 
