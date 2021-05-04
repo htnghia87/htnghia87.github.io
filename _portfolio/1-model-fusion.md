@@ -8,11 +8,11 @@ collection: portfolio
 
 <p align="justify">
 
-I and my collaborator, <a href="http://web.mit.edu/jaillet/www/">Professor Patrick Jaillet</a> (MIT), were awarded an exploratory research grant (150K USD) to investigate new challenges in <b>On-Device Personalization with Meta Learning</b> by the MIT-IBM Watson AI Lab.
+I and my collaborator, <a href="http://web.mit.edu/jaillet/www/">Patrick Jaillet</a> (MIT), were awarded an exploratory research grant (150K USD) to investigate new challenges in <b>On-Device Personalization with Meta Learning</b> by the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a>.
 
 </p>
 
-**Ideas and Motivation:**
+**Idea and Motivation:**
 
 <p align="justify">
 
