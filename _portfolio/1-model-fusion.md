@@ -1,5 +1,5 @@
 ---
-title: "On-Device Personalization for Federated and Meta Learning"
+title: "Model Fusion for Personalized Learning"
 excerpt: "<br/><img src='/images/1-model-fusion.png'>"
 collection: portfolio
 ---
