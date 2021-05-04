@@ -1,6 +1,6 @@
 ---
 title: "On-Device Personalization for Federated and Meta Learning"
-excerpt: "<br/><img src='/images/1-model-fusion.png'>"
+excerpt: "<br/><img src='/images/1-model-fusion-origin.png'>"
 collection: portfolio
 ---
 
