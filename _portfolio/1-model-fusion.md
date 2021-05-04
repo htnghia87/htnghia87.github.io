@@ -29,11 +29,13 @@ To accommodate for such scenarios, my research aims to develop a <b>new personal
 Preliminary works in this emerging area were published at AAAI-19, ICML-19:
 
 **Collective Online Learning via Decentralized Gaussian Processes in Massive Multi-Agent Systems (AAAI-19)** [Paper](https://htnghia87.github.io/publication/aaai19)
+
 **Collective Model Fusion for Multiple Black-Box Experts (ICML-19)** [Paper](https://htnghia87.github.io/publication/icml19a)
 
 Related works in the context of neural networks (in collaboration with my MIT-IBM colleagues) at ICML-19 and NeurIPS-19:
 
 **Bayesian Nonparametric Federated Learning of Neural Networks (ICML-19)** [Paper](https://htnghia87.github.io/publication/icml19b)
+
 **Statistical Model Aggregation via Parameter Matching (NeurIPS-19)** [Paper](https://htnghia87.github.io/publication/neurips19)
 
 Most recent work in this topic at ICML-20:
