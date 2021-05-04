@@ -1,6 +1,6 @@
 ---
 title: "Transferrable and Interpretable ML for Healthcare"
-excerpt: "<br/><img src='/images/ai-healthcare-visualization.png'>"
+excerpt: "<p align=left><br/><img src='/images/ai-healthcare-visualization.png'></p>"
 collection: portfolio
 ---
 
