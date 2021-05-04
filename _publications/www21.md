@@ -1,5 +1,5 @@
 ---
-title: "AID: Active Distillation Machine to Leverage Pre-TrainedBlack-Box Models in Private Data Settings"
+title: "AID: Active Distillation Machine to Leverage Pre-Trained Black-Box Models in Private Data Settings"
 collection: publications
 permalink: /publication/www21
 excerpt: 'Trong Nghia Hoang, Shenda Hong, Cao Xiao, Kian Hsiang Low and Jimeng Sun'
