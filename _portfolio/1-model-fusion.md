@@ -17,10 +17,9 @@ I and my academic collaborator, <a href="http://web.mit.edu/jaillet/www/">Patric
 This research is also part of another research funding under the <b>AI Singapore Research Programme: Toward Trustable Model-centric Sharing for Collaborative Machine Learning,
 S$8,401,002.40, Apr 2021 - Mar 2025 </b> of which I am an affiliated collaborator (1.5%) working on the model fusion package.
 
-[Media Article](https://medium.com/ncript/sharing-without-oversharing-in-collective-machine-learning-292ecd92a71e)
-
 </p>
 
+[Media Article](https://medium.com/ncript/sharing-without-oversharing-in-collective-machine-learning-292ecd92a71e)
 
 **Idea and Motivation:**
 
