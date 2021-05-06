@@ -8,7 +8,7 @@ collection: portfolio
 
 <p align="justify">
 
-This research was proposed as part of a broader research proposal that I and my former PhD advisor (<a href="www.comp.nus.edu.sg/~lowkh">Associate Professor Kian Hsiang Low</a>) got approved for a MOE AcRF Tier 2 Grant of SGD 737,461 (2017 - 2020)
+This research was proposed as part of a broader research proposal that I and my former PhD advisor (<a href="www.comp.nus.edu.sg/~lowkh">Associate Professor Kian Hsiang Low</a>) got approved for a **MOE AcRF Tier 2 Grant of SGD 737,461 (2017 - 2020)**
 
 </p>
 
@@ -23,7 +23,7 @@ Gaussian process (GP) models are a rich class of Bayesian non-parametric models 
  
 Relevant papers:
 
-**Revisiting the Sample Complexity of Sparse Spectrum Approximation of Gaussian Processes (NeurIPS-20)** [Paper] (https://htnghia87.github.io/publication/neurips20)
+**Revisiting the Sample Complexity of Sparse Spectrum Approximation of Gaussian Processes (NeurIPS-20)** [Paper](https://htnghia87.github.io/publication/neurips20)
 
 **Collective Online Learning via Decentralized Gaussian Processes in Massive Multi-Agent Systems (AAAI-19)** [Paper](https://htnghia87.github.io/publication/aaai19)
 
@@ -33,7 +33,7 @@ Relevant papers:
 
 **A Distributed Variational Inference Framework for Unifying Gaussian Process Regression Models (ICML-16)** [Paper](https://htnghia87.github.io/publication/icml16)
 
-**A Unifying Framework of Anytime Sparse Gaussian Process Regression Models with Stochastic Variational Inference for Big Data (ICML-15)** [Paper] (https://htnghia87.github.io/publication/icml15)
+**A Unifying Framework of Anytime Sparse Gaussian Process Regression Models with Stochastic Variational Inference for Big Data (ICML-15)** [Paper](https://htnghia87.github.io/publication/icml15)
 
 
 
