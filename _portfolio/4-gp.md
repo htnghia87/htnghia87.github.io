@@ -8,7 +8,7 @@ collection: portfolio
 
 <p align="justify">
 
-This research was proposed as part of a broader research proposal that I and my former PhD advisor (<a href="www.comp.nus.edu.sg/~lowkh">Associate Professor Kian Hsiang Low</a>) got approved for a **MOE AcRF Tier 2 Grant of SGD 737,461 (2017 - 2020)**
+This research was proposed as part of a broader research proposal that I and my former PhD advisor (<a href="www.comp.nus.edu.sg/~lowkh">Associate Professor Kian Hsiang Low</a>) got approved for a <b>MOE AcRF Tier 2 Grant of SGD 737,461 (2017 - 2020)</b>
 
 </p>
 
