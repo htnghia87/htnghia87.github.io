@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am currently a Senior Research Scientist at AWS AI Labs, Amazon (2020 - present) in Palo Alto, CA. 
+I am a Senior Research Scientist at AWS AI Labs, Amazon (2020 - present) in Palo Alto, CA. 
 
 Prior to my appointment at Amazon, I worked at the [MIT-IBM Watson AI Lab, IBM Research](https://mitibmwatsonailab.mit.edu/people/nghia-hoang/) in Cambridge, MA (2018-2020) as a Research Staff Member. 
 
