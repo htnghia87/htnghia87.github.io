@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic page!"
+title: "Welcome to Nghia's personal page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+[NEWS] My recent paper on Model Fusion for Personalized Learning has been accepted for publication in ICML-21
 
 I am a Senior Research Scientist at AWS AI Labs, Amazon (2020 - present) in Palo Alto, CA. 
 
