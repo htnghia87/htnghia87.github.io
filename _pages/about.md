@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Nghia's personal page!"
+title: "Welcome to my personal page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
