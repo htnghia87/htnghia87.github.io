@@ -12,9 +12,11 @@ redirect_from:
 
 [NEWS](https://htnghia87.github.io/publication/icml21) One paper has recently been accepted for publication in ICML-21
 
-I am a Senior Research Scientist at AWS AI Labs, Amazon (2020 - present) in Palo Alto, CA. 
+I am currently tenure-track Assistant Professor at the School of Electrical Engineering and Computer Science, Washington State University. I recently started in 2023 and am recruiting two PhD students in the area of probabilistic distributed learning. Please drop me an e-mail if you are interested.
 
-Prior to my appointment at Amazon, I worked at the [MIT-IBM Watson AI Lab, IBM Research](https://mitibmwatsonailab.mit.edu/people/nghia-hoang/) in Cambridge, MA (2018-2020) as a Research Staff Member. 
+Prior to my current appointment, I was a Senior Research Scientist at the AWS AI Labs, Amazon (2020-2022) in Santa Clara, CA.
+
+Before Amazon, I was a Research Staff Member of the [MIT-IBM Watson AI Lab, IBM Research](https://mitibmwatsonailab.mit.edu/people/nghia-hoang/) in Cambridge, MA (2018-2020).
 
 Before IBM, I was a Postdoctoral Research Associate at the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) (LIDS), MIT (2017-2018). 
 
