@@ -12,7 +12,9 @@ redirect_from:
 
 [NEWS](https://htnghia87.github.io/publication/icml21) One paper has recently been accepted for publication in ICML-21
 
-I am currently tenure-track Assistant Professor at the School of Electrical Engineering and Computer Science, Washington State University. I recently started in 2023 and am recruiting two PhD students in the area of probabilistic distributed learning. Please drop me an e-mail if you are interested.
+I am currently a tenure-track Assistant Professor at the School of Electrical Engineering and Computer Science, Washington State University. 
+
+I recently started in 2023 and am recruiting two PhD students in the area of probabilistic distributed learning. Please drop me an [e-mail](mailto:trongnghia.hoang@wsu.edu) if you are interested.
 
 Prior to my current appointment, I was a Senior Research Scientist at the AWS AI Labs, Amazon (2020-2022) in Santa Clara, CA.
 
