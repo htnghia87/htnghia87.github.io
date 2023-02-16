@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 [NEWS](https://htnghia87.github.io/publication/iclr23) A paper on Adversarial Attack and Defense Mechanisms for Multivariate Time-Series Forecasting has been accepted for publication in ICLR-23
+
 [NEWS](https://htnghia87.github.io/publication/cikm22) A paper on Adaptive Multi-Source Causal Inference has been accepted for publication in CIKM-22
+
 [NEWS](https://htnghia87.github.io/publication/uai22) A paper on Bayesian Federated Estimation of Causal Effects has been accepted for publication in UAI-22
+
 [NEWS](https://htnghia87.github.io/publication/aistats22) A paper on Learning Personalized Item-to-Item Recommendation Metric has been accepted for publication in AISTATS-22
 
 I am currently a tenure-track Assistant Professor at the School of Electrical Engineering and Computer Science, Washington State University. 
