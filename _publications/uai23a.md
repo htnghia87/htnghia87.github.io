@@ -1,5 +1,5 @@
 ---
-title: "ua"
+title: "Merging Models Pre-Trained on Different Features with Consensus Graph"
 collection: publications
 permalink: /publication/uai23a
 excerpt: 'Tengfei Ma, Trong Nghia Hoang and Jie Chen'
