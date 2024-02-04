@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+NEWS: I will give an invited talk at AAAI-24 New Faculty Highlight Program. 
+
+[NEWS](https://htnghia87.github.io/publication/npjsba24) My collaborative work with Sara Magliacane (University of Amsterdam) and Douglas Lauffenburger (MIT) on Translating Omics Signatures without Orthologue Requirements using Deep Learning has recently been accepted to [Nature Partner Journals: Systems Biology and Applications](https://www.nature.com/npjsba/)
+
+[NEWS](https://htnghia87.github.io/publication/aaai24b) A paper on Few-Shot Learning via Repurposing Ensemble of Black-Box Models has been accepted for publication in AAAI-24.
+
+[NEWS](https://htnghia87.github.io/publication/aaai24a) A paper on Offline Model-based Optimization via Policy-Guided Gradient Search has been accepted for publication in AAAI-24.
+
+[NEWS](https://htnghia87.github.io/publication/wsdm24) A paper on Pre-Trained Recommender Systems: A Causal Debiasing Perspective has been accepted for publication in WSDM-24.
+
 [NEWS](https://htnghia87.github.io/publication/neurips23) A paper on Incentives in Private Collaborative Machine Learning has been accepted for publication in NeurIPS-23.
+
+[NEWS](https://htnghia87.github.io/publication/icdm23) A paper on Promoting Robustness of Randomized Smoothing: Two Cost-Effective Approaches has been accepted for publication in ICDM-23.
 
 [NEWS](https://htnghia87.github.io/publication/uai23a) A paper on Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs has been accepted for publication in UAI-23.
 
