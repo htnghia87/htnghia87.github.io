@@ -34,12 +34,12 @@ Professional Services
 
 * 2019: Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer: Practical Bayesian Methods for Big Data, IBM Research AI Week -- [Website](https://deeplybayesian.github.io/)
 
-* 2020: PC Member (AAAI, ICLR, ICML, NeurIPS, PRIMA), Reviewer (ICRA, IROS)
+* 2020: PC Member (AAAI, ICLR, ICML, NeurIPS, PRIMA, IROS, ICRA)
 
-* 2021: SPC Member (IJCAI), PC Member (AAAI, ICLR, ICML, NeurIPS), Reviewer (IROS), Workshop Organizer: NeurIPS-21 Workshop on New Frontiers in Federated Learning -- [Website](https://neurips2021workshopfl.github.io/NFFL-2021/)
+* 2021: SPC Member (IJCAI), PC Member (AAAI, ICLR, ICML, NeurIPS, IROS, ICRA), Workshop Organizer: NeurIPS-21 Workshop on New Frontiers in Federated Learning -- [Website](https://neurips2021workshopfl.github.io/NFFL-2021/)
 
-* 2022: SPC Member (AAAI), PC Member (ICML, ICLR, IJCAI, RSS, AISTATS, NeurIPS), Reviewer (IROS, ICRA), Proposal Evaluator (AI Singapore Research Programme)
+* 2022: SPC Member (AAAI), PC Member (ICML, ICLR, IJCAI, RSS, AISTATS, NeurIPS, IROS, ICRA), Proposal Evaluator (AI Singapore Research Programme)
 
-* 2023: SPC Member (AAAI), AC (ECAI), PC Member (ICML, ICLR, UAI, AISTATS, NeurIPS), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
+* 2023: SPC Member (AAAI), AC (ECAI), PC Member (ICML, ICLR, UAI, AISTATS, NeurIPS, IROS), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
 
 * 2024: SPC Member (AAAI), AC (UAI), PC Member (ICML, ICLR), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
