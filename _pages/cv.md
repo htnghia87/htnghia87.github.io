@@ -27,15 +27,6 @@ Work Experience
 
 Professional Services
 ======
-* 2012: Reviewer (IROS)
-
-* 2013: Auxiliary Reviewer (AAMAS)
-
-* 2014: Auxiliary Reviewer (AAMAS, ICRA), Reviewer (J-STSP)
-
-* 2015: PC Member (IJCAI), Reviewer (J-STSP)
-
-* 2016: PC Member (ICRA, NIPS)
 
 * 2018: PC Member (ICRA, AAMAS, IJCAI, PAKDD, NIPS), Reviewer (IEEE-RA-L), Proposal Evaluator (AI Singapore Research Programme)
 
@@ -45,8 +36,10 @@ Professional Services
 
 * 2020: PC Member (AAAI, ICLR, ICML, NeurIPS, PRIMA), Reviewer (ICRA, IROS)
 
-* 2021: SPC Member (IJCAI), PC Member (AAAI, ICLR, ICML, NeurIPS), Reviewer (IROS)
+* 2021: SPC Member (IJCAI), PC Member (AAAI, ICLR, ICML, NeurIPS), Reviewer (IROS), Workshop Organizer: NeurIPS-21 Workshop on New Frontiers in Federated Learning -- [Website](https://neurips2021workshopfl.github.io/NFFL-2021/)
 
-* 2022: SPC Member (AAAI), PC Member (ICML, ICLR, IJCAI, RSS, AISTATS)
+* 2022: SPC Member (AAAI), PC Member (ICML, ICLR, IJCAI, RSS, AISTATS, NeurIPS), Reviewer (IROS, ICRA), Proposal Evaluator (AI Singapore Research Programme)
 
-* 2022: Proposal Evaluator (AI Singapore Research Programme), Workshop Organizer: NeurIPS-21 Workshop on New Frontiers in Federated Learning -- [Website](https://neurips2021workshopfl.github.io/NFFL-2021/)
+* 2023: SPC Member (AAAI), AC (ECAI), PC Member (ICML, ICLR, UAI, AISTATS, NeurIPS), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
+
+* 2024: SPC Member (AAAI), AC (UAI), PC Member (ICML, ICLR), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
