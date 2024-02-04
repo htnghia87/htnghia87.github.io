@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[NEWS](https://htnghia87.github.io/publication/neurips23) My collaborative work with Rachael Hwee Sing Lim, Yehong Zhang, Xinyi Xu, Bryan Kian Hsiang Low and Patrick Jaillet on Incentives in Private Collaborative Machine Learning has been accepted for publication in NeurIPS-23.
+[NEWS](https://htnghia87.github.io/publication/neurips23) A paper on Incentives in Private Collaborative Machine Learning has been accepted for publication in NeurIPS-23.
 
-[NEWS](https://htnghia87.github.io/publication/uai23a) My collaborative work with (former) IBM colleagues on Merging Models Pre-Trained on Different Features with Consensus Graph (aka Model Fusion for Vertical Federated Learning) has recently been accepted for publication in UAI-23.
+[NEWS](https://htnghia87.github.io/publication/uai23a) A paper on Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs has been accepted for publication in UAI-23.
 
-[NEWS](https://htnghia87.github.io/publication/uai23b) My collaborative work with (former) Amazon intern Ziwei Fan on Personalized Federated Domain Adaptation for Item-to-Item Recommendation has also been accepted for publication in UAI-23. 
+[NEWS](https://htnghia87.github.io/publication/uai23b) A paper on Personalized Federated Domain Adaptation for Item-to-Item Recommendation has been accepted for publication in UAI-23. 
 
 [NEWS](https://htnghia87.github.io/publication/iclr23) A paper on Adversarial Attack and Defense Mechanisms for Multivariate Time-Series Forecasting has been accepted for publication in ICLR-23
 
