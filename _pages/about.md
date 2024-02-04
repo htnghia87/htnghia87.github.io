@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-NEWS: I will give an invited talk at AAAI-24 New Faculty Highlight Program. 
+NEWS: I will give an invited talk at AAAI-24 New Faculty Highlight Program. In addition, I and my WSU colleagues (Jana Doppa, Yan Yan, Ganapati Bhat, Taha Belkhouja) will also give a tutorial on Advances in Robust Time-Series ML at AAAI-24. 
 
 [NEWS](https://htnghia87.github.io/publication/npjsba24) My collaborative work with Sara Magliacane (University of Amsterdam) and Douglas Lauffenburger (MIT) on Translating Omics Signatures without Orthologue Requirements using Deep Learning has recently been accepted to [Nature Partner Journals: Systems Biology and Applications](https://www.nature.com/npjsba/)
 
