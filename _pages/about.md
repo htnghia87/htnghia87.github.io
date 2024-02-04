@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+[NEWS](https://htnghia87.github.io/publication/neurips23) My collaborative work with Rachael Hwee Sing Lim, Yehong Zhang, Xinyi Xu, Bryan Kian Hsiang Low and Patrick Jaillet on Incentives in Private Collaborative Machine Learning has been accepted for publication in NeurIPS-23.
+
 [NEWS](https://htnghia87.github.io/publication/uai23a) My collaborative work with (former) IBM colleagues on Merging Models Pre-Trained on Different Features with Consensus Graph (aka Model Fusion for Vertical Federated Learning) has recently been accepted for publication in UAI-23.
 
 [NEWS](https://htnghia87.github.io/publication/uai23b) My collaborative work with (former) Amazon intern Ziwei Fan on Personalized Federated Domain Adaptation for Item-to-Item Recommendation has also been accepted for publication in UAI-23. 
 
-[NEWS] I am recruiting two PhD students in the area of probabilistic distributed learning. Please drop me an [e-mail](mailto:trongnghia.hoang@wsu.edu) if you are interested. 
-
 [NEWS](https://htnghia87.github.io/publication/iclr23) A paper on Adversarial Attack and Defense Mechanisms for Multivariate Time-Series Forecasting has been accepted for publication in ICLR-23
-
-[NEWS](https://htnghia87.github.io/publication/cikm22) A paper on Adaptive Multi-Source Causal Inference has been accepted for publication in CIKM-22
-
-[NEWS](https://htnghia87.github.io/publication/uai22) A paper on Bayesian Federated Estimation of Causal Effects has been accepted for publication in UAI-22
-
-[NEWS](https://htnghia87.github.io/publication/aistats22) A paper on Learning Personalized Item-to-Item Recommendation Metric has been accepted for publication in AISTATS-22
 
 I am currently a tenure-track Assistant Professor at the School of Electrical Engineering and Computer Science, Washington State University. 
 
