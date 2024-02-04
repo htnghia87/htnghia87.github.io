@@ -1,5 +1,5 @@
 ---
-title: "Merging Models Pre-Trained on Different Features with Consensus Graph"
+title: "Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs"
 collection: publications
 permalink: /publication/uai23a
 excerpt: 'Tengfei Ma, Trong Nghia Hoang and Jie Chen'

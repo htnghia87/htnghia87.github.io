@@ -1,16 +1,16 @@
 
-@InProceedings{pmlr-v216-fan23a,
-  title = 	 {Personalized federated domain adaptation for item-to-item recommendation},
-  author =       {Fan, Ziwei and Ding, Hao and Deoras, Anoop and Hoang, Trong Nghia},
+@InProceedings{pmlr-v216-ma23b,
+  title = 	 {Federated learning of models pre-trained on different features with consensus graphs},
+  author =       {Ma, Tengfei and Hoang, Trong Nghia and Chen, Jie},
   booktitle = 	 {Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence},
-  pages = 	 {560--570},
+  pages = 	 {1336--1346},
   year = 	 {2023},
   editor = 	 {Evans, Robin J. and Shpitser, Ilya},
   volume = 	 {216},
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {31 Jul--04 Aug},
   publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v216/fan23a/fan23a.pdf},
-  url = 	 {https://proceedings.mlr.press/v216/fan23a.html},
-  abstract = 	 {Item-to-Item (I2I) recommendation is an important function that suggests replacement or complement options for an item based on their functional similarities or synergies. To capture such item relationships effectively, the recommenders need to understand why subsets of items are co-viewed or co-purchased by the customers. Graph-based models, such as graph neural networks (GNNs), provide a natural framework to combine, ingest and extract valuable insights from such high-order item relationships. However, learning GNNs effectively for I2I requires ingesting a large amount of relational data, which might not always be available, especially in new, emerging market segments. To mitigate this data bottleneck, we postulate that recommendation patterns learned from existing market segments (with private data) could be adapted to build effective warm-start models for emerging ones. To achieve this, we introduce a personalized graph adaptation model based on GNNs to summarize, assemble and adapt recommendation patterns across market segments with heterogeneous customer behaviors into effective local models.}
+  pdf = 	 {https://proceedings.mlr.press/v216/ma23b/ma23b.pdf},
+  url = 	 {https://proceedings.mlr.press/v216/ma23b.html},
+  abstract = 	 {Learning an effective global model on private and decentralized datasets has become an increasingly important challenge of machine learning when applied in practice. Existing distributed learning paradigms, such as Federated Learning, enable this via model aggregation which enforces a strong form of modeling homogeneity and synchronicity across clients. This is however not suitable to many practical scenarios. For example, in distributed sensing, heterogeneous sensors reading data from different views of the same phenomenon would need to use different models for different data modalities. Local learning therefore happens in isolation but inference requires merging the local models to achieve consensus. To enable consensus among local models, we propose a feature fusion approach that extracts local representations from local models and incorporates them into a global representation that improves the prediction performance. Achieving this requires addressing two non-trivial problems. First, we need to learn an alignment between similar feature components which are arbitrarily arranged across clients to enable representation aggregation. Second, we need to learn a consensus graph that captures the high-order interactions between local feature spaces and how to combine them to achieve a better prediction. This paper presents solutions to these problems and demonstrates them in real-world applications on time series data such as power grids and traffic networks.}
 }
