@@ -2,7 +2,7 @@
 title: "Personalized Federated Domain Adaptation for Item-to-Item Recommendation"
 collection: publications
 permalink: /publication/uai23b
-excerpt: 'Ziwei Fan, Trong Nghia Hoang, Hao Ding and Anoop Deoras'
+excerpt: 'Ziwei Fan, Hao Ding, Anoop Deoras and Trong Nghia Hoang'
 date: 2023-08-01
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI)'
 ---
