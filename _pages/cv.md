@@ -40,6 +40,6 @@ Professional Services
 
 * 2022: SPC Member (AAAI), PC Member (ICML, ICLR, IJCAI, RSS, AISTATS, NeurIPS, IROS, ICRA), Proposal Evaluator (AI Singapore Research Programme)
 
-* 2023: SPC Member (AAAI), AC (ECAI), PC Member (ICML, ICLR, UAI, AISTATS, NeurIPS, IROS), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
+* 2023: SPC Member (AAAI), AC (ECAI), PC Member (ICML, ICLR, UAI, AISTATS, NeurIPS, IROS, AAMAS), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
 
 * 2024: SPC Member (AAAI), AC (UAI), PC Member (ICML, ICLR), Board Member of Machine Learning Journal, Action Editor of Neural Networks, Proposal Evaluator (AI Singapore Research Programme)
