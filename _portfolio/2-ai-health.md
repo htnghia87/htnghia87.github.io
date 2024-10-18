@@ -8,7 +8,7 @@ collection: portfolio
 
 <p align="justify">
 
-I and my academic collaborators, <a href="http://web.mit.edu/dallab/people/index.html">Douglas A. Lauffenburger</a> (MIT) and <a href="https://smaglia.wordpress.com/">Sara Magliacane</a> (University of Amsterdam), were awarded an exploratory research grant (150K USD) to investigate new challenges in <b>Cross-Species Translation of COVID-19 Systems Serology Data for Infection and Vaccine Treatment</b> by the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a>.
+I and my academic collaborators, <a href="http://web.mit.edu/dallab/people/index.html">Douglas A. Lauffenburger</a> (MIT) and <a href="https://smaglia.wordpress.com/">Sara Magliacane</a> (University of Amsterdam), were awarded an exploratory research grant (150K USD) to investigate new challenges in <b>Cross-Species Translation of COVID-19 Systems Serology Data for Infection and Vaccine Treatment</b> by the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> (2020-2021).
 
 </p>
 
@@ -21,7 +21,9 @@ I am interested in application of ML to healthcare. Two important desiderata of 
 
 </p> 
  
-Relevant papers (in collaboration with <a href="https://sites.google.com/view/danicaxiao">Danica Xiao</a> and <a href="https://cs.illinois.edu/about/people/faculty/jimeng">Jimeng Sun</a>:
+Relevant papers:
+
+**AutoTransOP: Translating Omics Signatures without Orthologue Requirements using Deep Learning (Nature Partner Journal: Systems Biology and Applications, 2024)** [Paper](https://htnghia87.github.io/publication/npjsba24)
 
 **AID: Active Distillation Machine to Leverage Pre-Trained Black-Box Models in Private Data Settings (WWW-21)** [Paper](https://htnghia87.github.io/publication/www21)
 

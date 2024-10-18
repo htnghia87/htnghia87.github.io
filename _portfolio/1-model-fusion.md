@@ -1,5 +1,5 @@
 ---
-title: "Model Fusion for Personalized Federated Learning"
+title: "Model Fusion for Federated Learning across Heterogeneous Systems"
 excerpt: "<br/><img src='/images/model-fusion-visualization.png'>"
 collection: portfolio
 ---
@@ -8,14 +8,14 @@ collection: portfolio
 
 <p align="justify">
 
-I and my academic collaborator, <a href="http://web.mit.edu/jaillet/www/">Patrick Jaillet</a> (MIT), were awarded (as co-PI) an exploratory research grant (150K USD) to investigate new challenges in <b>On-Device Personalization with Meta Learning</b> by the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a>. 
+I and my academic collaborator, <a href="http://web.mit.edu/jaillet/www/">Patrick Jaillet</a> (MIT), were awarded (as co-PI) an exploratory research grant (150K USD) to investigate new challenges in <b>On-Device Personalization with Meta Learning</b> by the <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a> (2020-2021). 
 
 </p>
 
 <p align="justify">
 
 This research is also part of another research funding under the <b>AI Singapore Research Programme: Toward Trustable Model-centric Sharing for Collaborative Machine Learning,
-S$8,401,002.40, Apr 2021 - Mar 2025 </b> of which I am an affiliated collaborator (1.5%) working on the model fusion package.
+S$8,401,002.40, Apr 2021 - Mar 2025 </b> of which I am an affiliated collaborator working on the model fusion package.
 
 </p>
 
@@ -35,6 +35,26 @@ To accommodate for such scenarios, my research aims to develop a <b>new personal
 
 </p>
 
+Most recent work:
+
+**Effective Knowledge Representation and Utilization for Sustainable Collaborative Learning across Heterogeneous Systems (AI Magazine, 2024)** [Paper](https://htnghia87.github.io/publication/ai-magazine-24)
+
+**Probabilistic Federated Prompt-Tuning (NeurIPS-24)** [Paper](https://htnghia87.github.io/publication/neurips24a)
+
+**Few-Shot Learning via Repurposing Ensemble of Black-Box Models (AAAI-24)** [Paper](https://htnghia87.github.io/publication/aaai24b)
+
+**Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs (UAI-23)** [Paper](https://htnghia87.github.io/publication/uai23a)
+
+**Personalized Federated Domain Adaptation for Item-to-Item Recommendation (UAI-23)** [Paper](https://htnghia87.github.io/publication/uai23b)
+
+**Bayesian Federated Estimation of Causal Effects from Observationsl Data (UAI-22)** [Paper](https://htnghia87.github.io/publication/uai22)
+
+**Adaptive Multi-Source Causal Inference from Observational Data (CIKM-22)** [Paper](https://htnghia87.github.io/publication/cikm22)
+
+**Model Fusion for Personalized Learning (ICML-21)** [Paper](https://htnghia87.github.io/publication/icml21)
+
+**Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion (ICML-20)** [Paper](https://htnghia87.github.io/publication/icml20)
+
 Preliminary works in this emerging area were published at AAAI-19, ICML-19:
 
 **Collective Online Learning via Decentralized Gaussian Processes in Massive Multi-Agent Systems (AAAI-19)** [Paper](https://htnghia87.github.io/publication/aaai19)
@@ -47,8 +67,14 @@ Related works in the context of neural networks (in collaboration with my MIT-IB
 
 **Statistical Model Aggregation via Parameter Matching (NeurIPS-19)** [Paper](https://htnghia87.github.io/publication/neurips19)
 
-Most recent work in this topic at ICML-20:
 
-**Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion (ICML-20)** [Paper](https://htnghia87.github.io/publication/icml20)
+
+
+
+
+
+
+
+
 
 
