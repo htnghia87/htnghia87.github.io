@@ -1,0 +1,13 @@
+---
+title: "Incorporating Surrogate Gradient Norm to Improve Offline Optimization Techniques"
+collection: publications
+permalink: /publication/neurips24b
+excerpt: 'Manh Cuong Dao, Phi Le Nguyen, Truong Thao Nguyen, and Trong Nghia Hoang'
+date: 2024-09-25
+venue: '38th Annual Conference on Neural Information Processing Systems'
+---
+Abstract: Offline optimization has recently emerged as an increasingly popular approach to mitigate the prohibitively expensive cost of online experimentation. The key idea is to learn a surrogate of the black-box function that underlines the target experiment using a static (offline) dataset of its previous input-output queries. Such an approach is, however, fraught with an out-of-distribution issue where the learned surrogate becomes inaccurate outside the offline data regimes. To mitigate this, existing offline optimizers have proposed numerous conditioning techniques to prevent the learned surrogate from being too erratic. Nonetheless, such conditioning strategies are often specific to particular surrogate or search models, which might not generalize to a different model choice. This motivates us to develop a model-agnostic approach instead, which incorporates a notion of model sharpness into the training loss of the surrogate as a regularizer. Our approach is supported by a new theoretical analysis demonstrating that reducing surrogate sharpness on the offline dataset provably reduces its generalized sharpness on unseen data. Our analysis extends existing theories from bounding generalized prediction loss (on unseen data) with loss sharpness to bounding the worst-case generalized surrogate sharpness with its empirical estimate on training data, providing a new perspective on sharpness regularization. Our extensive experimentation on a diverse range of optimization tasks also shows that reducing surrogate sharpness often leads to significant improvement, marking (up to) a noticeable 9.6% performance boost.
+
+[Paper](http://htnghia87.github.io/files/neurips24b.pdf)
+[Supplementary](http://htnghia87.github.io/files/neurips24b-supp.pdf)
+[Bibtex](http://htnghia87.github.io/files/neurips24b.bib)
