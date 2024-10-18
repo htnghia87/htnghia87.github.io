@@ -12,4 +12,4 @@ Teaching
 ======
 * 2023: Introduction to Artificial Intelligence (Spring 2023), Introduction to Machine Learning (Fall 2023)
 
-* 2024: Introduction to Machine Learning (Spring 2024)
+* 2024: Introduction to Artificial Intelligence (Spring 2024), Introduction to Machine Learning (Fall 2024)
